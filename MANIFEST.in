@@ -1,0 +1,4 @@
+include bartr/schema.sql
+graft bartr/static
+graft bartr/templates
+global-exclude *.pyc
